@@ -4,7 +4,7 @@
 
 漫剧一条到底多少钱：输入剧本（时长、镜头数、风格、条数），各家模型、批量流水线、外包市场价、代码渲染的成本一次算清。
 
-在线演示：待部署后填写（GitHub Pages）。
+在线演示：https://laomaiai.github.io/ai-video-cost-calculator/
 
 ## 2. 它解决什么问题
 

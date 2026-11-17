@@ -4,7 +4,7 @@
 
 How much does one AI comic-drama episode really cost: enter the script (length, shots, style, episode count) and compare model, batch-pipeline, outsourcing, and code-rendering costs in one table.
 
-Live demo: to be filled in after deployment (GitHub Pages).
+Live demo: https://laomaiai.github.io/ai-video-cost-calculator/
 
 ## 2. The problem it solves
 
